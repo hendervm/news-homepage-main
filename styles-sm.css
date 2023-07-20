@@ -141,10 +141,6 @@ p {
     max-width: 15rem;
 }
 
-.read-more-button:hover {
-    background-color: var(--Very-dark-blue);
-}
-
 .aside-container {
     background-color: var(--Very-dark-blue);
     display: flex;
@@ -194,10 +190,6 @@ p {
     padding-top: 1rem;
 }
 
-.aside-item-title:hover {
-    color: var(--Soft-orange);
-}
-
 .footer-container {
     padding: 2.5rem clamp(1.25rem, 2vw, 100px);
     display: flex;
@@ -240,10 +232,6 @@ p {
     font-weight: 700;
     color: var(--Very-dark-blue);
     font-size: 1.25rem;
-}
-
-.footer-aside a:hover {
-    color: var(--Soft-red);
 }
 
 .attribution {

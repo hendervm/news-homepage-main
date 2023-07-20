@@ -1,3 +1,15 @@
+.read-more-button:hover {
+    background-color: var(--Very-dark-blue);
+}
+
+.aside-item-title:hover {
+    color: var(--Soft-orange);
+}
+
+.footer-aside a:hover {
+    color: var(--Soft-red);
+}
+
 @media screen and (min-width: 768px) {
 
     .main-container {
