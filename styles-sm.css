@@ -51,7 +51,7 @@ p {
     position: absolute;
     background-color: var(--Off-white);
     right: 0;
-    top: 16vw;
+    top: 5rem;
     width: 0;
     height: 100vh;
     box-shadow: -100vw -20vw 0 100vw #0000;
@@ -63,7 +63,8 @@ p {
 #menu-toggle-inp:checked~.nav-options {
     display: unset;
     width: 65vw;
-    box-shadow: -65vw -20vw 0 0 #0007;
+    box-shadow: -65vw -5rem 0 0 #0007;
+
 }
 
 .open-menu {
