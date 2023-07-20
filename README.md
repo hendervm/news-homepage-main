@@ -41,13 +41,12 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 This is the first project I used Lighthouse to check code performance, really helpful tool when comparing two ways of doing anything, definitely going to keep using it.
 
 Related to code performace a better way of having two different images for different viewport sizes is using a source tag with a srcset attribute, like the following code:
-
----
+```
 <picture class="main-poster">
   <source media="(min-width:992px)" srcset="assets\images\image-web-3-desktop.jpg">
   <img src="assets\images\image-web-3-mobile.jpg" class="poster" alt="poster">
 </picture>
----
+```
 The code above not only saves us the CSS code, but also rendering two images instead of one in a very simple way.
 
 ### Continued development
