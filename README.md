@@ -22,8 +22,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [solution-URL](https://github.com/hendervm/news-homepage-main.git)
-- Live Site URL: [live site URL](https://hendervm.github.io/news-homepage-main/)
+- Solution URL: [Github Repository](https://github.com/hendervm/news-homepage-main.git)
+- [Live Site](https://hendervm.github.io/news-homepage-main/)
 
 ## My process
 
