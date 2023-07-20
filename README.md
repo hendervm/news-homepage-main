@@ -23,7 +23,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/hendervm/news-homepage-main.git)
-- [Live Site](https://hendervm.github.io/news-homepage-main/)
+- Solution site: [Live Site](https://hendervm.github.io/news-homepage-main/)
 
 ## My process
 
