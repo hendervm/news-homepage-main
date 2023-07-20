@@ -60,7 +60,7 @@ Semantic HTML is used in this, but anyways there are many more tags that could b
 - [Responsive menu (mobile)](https://youtu.be/BqRkb_m_PuE) - This gave me the idea of using a checkbox for the mobile nav menu.
 
 ## Author
-
+- GitHub - [hendervm](https://github.com/hendervm)
 - Frontend Mentor - [@Shender04](https://www.frontendmentor.io/profile/Shender04)
 
 
